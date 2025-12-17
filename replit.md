@@ -9,8 +9,8 @@ A 24/7 Minecraft bot that connects to a Java Edition server and performs random 
 
 ## Configuration
 The bot is pre-configured for:
-- **Server:**  Ranvir-uNWL.aternos.me
-- **Port:** 29832
+- **Server:**  Nainiwalranvir.aternos.me
+- **Port:** 55323
 - **Mode:** Offline/Cracked (no Microsoft account needed)
 
 ### Environment Variables (Optional)
