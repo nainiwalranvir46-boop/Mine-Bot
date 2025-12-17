@@ -6,8 +6,8 @@ const app = express();
 const PORT = 5000;
 
 const BOT_CONFIG = {
-  host: 'Nainiwalranvir.aternos.me',
-  port: 45216,
+  host: ' Ranvir-uNWL.aternos.me',
+  port: 29832,
   username: process.env.MC_USERNAME || 'RandomBot_' + Math.floor(Math.random() * 10000),
   version: false,
   auth: 'offline'
