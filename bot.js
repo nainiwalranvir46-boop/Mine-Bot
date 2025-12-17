@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
 const BOT_CONFIG = {
-  host: ' Ranvir-uNWL.aternos.me',
-  port: 29832,
+  host: ' Nainiwalranvir.aternos.me',
+  port: 55323,
   username: process.env.MC_USERNAME || 'RandomBot_' + Math.floor(Math.random() * 10000),
   version: false,
   auth: 'offline'
