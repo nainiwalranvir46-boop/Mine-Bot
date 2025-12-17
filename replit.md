@@ -10,7 +10,7 @@ A 24/7 Minecraft bot that connects to a Java Edition server and performs random 
 ## Configuration
 The bot is pre-configured for:
 - **Server:** Nainiwalranvir.aternos.me
-- **Port:** 17633
+- **Port:** 45216
 - **Mode:** Offline/Cracked (no Microsoft account needed)
 
 ### Environment Variables (Optional)
